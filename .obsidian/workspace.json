@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9340299955b8985",
+            "id": "0c92370cd0b89eb2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFS/Interpretacao_e_compreensao.pdf"
+                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFS/Interpretacao_e_compreensao.pdf",
+                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFS/Interpretacao_e_compreensao.pdf",
+                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFS/Interpretacao_e_compreensao.pdf"
+                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md"
               }
             }
           }
@@ -144,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9340299955b8985",
+  "active": "0c92370cd0b89eb2",
   "lastOpenFiles": [
     "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
+    "Matematica/Raciocínio Lógico  Sequências e lógica.md",
     "PDFS/Interpretacao_e_compreensao.pdf",
     "PDFS/Interpretacao_e_compreensao.pdf.pdf",
     "PDFS/Interpretacao_e_compreensao.md",
@@ -154,7 +157,6 @@
     "PDFS/Interpretacao_e_compreensao.pdf.md",
     "PDFS/InterpretaçãoECompreensão.md",
     "PDFS/interpretação.md",
-    "PDFS",
-    "Untitled.md"
+    "PDFS"
   ]
 }
