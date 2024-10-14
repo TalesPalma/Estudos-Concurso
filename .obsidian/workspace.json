@@ -11,11 +11,9 @@
             "id": "c9340299955b8985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFS/interpretação e  compreensão de textos.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "PDFS/interpretação e  compreensão de textos.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "PDFS/interpretação e  compreensão de textos.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "PDFS/interpretação e  compreensão de textos.pdf"
               }
             }
           }
@@ -148,6 +146,9 @@
   },
   "active": "c9340299955b8985",
   "lastOpenFiles": [
+    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
+    "PDFS/interpretação e  compreensão de textos.pdf",
+    "PDFS",
     "Untitled.md"
   ]
 }
