@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "611028421912ac84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatica/Sistema Operacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b2822d831ec3772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatica/Hardwares.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3017d418d2bc36bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Portugues/Concordância  Nominal e Verbal.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+                "file": "Portugues/Concordância  Nominal e Verbal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+                "file": "Portugues/Concordância  Nominal e Verbal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md"
+                "file": "Portugues/Concordância  Nominal e Verbal.md"
               }
             }
           }
@@ -146,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c92370cd0b89eb2",
+  "active": "3017d418d2bc36bd",
   "lastOpenFiles": [
-    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
+    "Informatica/Hardwares.md",
+    "Portugues/Concordância  Nominal e Verbal.md",
+    "Informatica/Sistema Operacional.md",
     "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "PDFS/Interpretacao_e_compreensao.pdf",
     "PDFS/Interpretacao_e_compreensao.pdf.pdf",
     "PDFS/Interpretacao_e_compreensao.md",

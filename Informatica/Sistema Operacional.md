@@ -1,0 +1,1 @@
+[Asssita o video aqui](https://www.youtube.com/watch?v=yjfB-asZVF4&list=PLdKWRMG0YzNuLCnFAUZUZNqwVsuCW8Oy6&index=4)
