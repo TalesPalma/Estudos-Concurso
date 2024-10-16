@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3627e472de8d7a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6c36112a50645b6a",
             "type": "leaf",
             "state": {
@@ -105,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "215395882a767e81",
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
+                "file": "Informatica/Informática Suítes de escritório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
+                "file": "Informatica/Informática Suítes de escritório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md"
+                "file": "Informatica/Informática Suítes de escritório.md"
               }
             }
           }
@@ -183,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3627e472de8d7a72",
+  "active": "6c36112a50645b6a",
   "lastOpenFiles": [
+    "README.md",
+    "Portugues/ACENTUAÇÃO GRÁFICA.md",
     "Matematica/Matemática Porcentagem e regra de três simples.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
     "Informatica/Informática Suítes de escritório.md",
-    "Portugues/ACENTUAÇÃO GRÁFICA.md",
     "Atualidades Meio ambiente e tecnologia",
     "Informatica/Hardwares.md",
     "Informatica/Sistema Operacional.md",
     "Matematica/Raciocínio Lógico  Sequências e lógica.md",
-    "README.md",
     "Portugues/Concordância  Nominal e Verbal.md",
     "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "PDFS/Interpretacao_e_compreensao.pdf",
