@@ -22,8 +22,7 @@
 | **Sábado**    | 1 hora: Simulados práticos de todas as matérias       |
 | **Domingo**   | 30 min: Revisão dos tópicos mais difíceis             |
 
-# Dicas para se Preparar para o Concurso Público da Prefeitura de Carmo de Minas
-
+# Dicas para se Preparar para o Concurso Público
 
 ## 1. Sites de Questões
 - **QConcursos**: [qconcursos.com](https://www.qconcursos.com) - Um dos maiores bancos de questões do Brasil, com muitos concursos disponíveis.
