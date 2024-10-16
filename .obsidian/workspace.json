@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Informática Suítes de escritório.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Informática Suítes de escritório.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Informática Suítes de escritório.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Informática Suítes de escritório.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,11 +172,11 @@
   },
   "active": "6c36112a50645b6a",
   "lastOpenFiles": [
+    "Informatica/Informática Suítes de escritório.md",
     "README.md",
     "Portugues/ACENTUAÇÃO GRÁFICA.md",
     "Matematica/Matemática Porcentagem e regra de três simples.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
-    "Informatica/Informática Suítes de escritório.md",
     "Atualidades Meio ambiente e tecnologia",
     "Informatica/Hardwares.md",
     "Informatica/Sistema Operacional.md",

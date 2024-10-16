@@ -24,7 +24,6 @@
 
 # Dicas para se Preparar para o Concurso Público da Prefeitura de Carmo de Minas
 
-Para se preparar para o concurso público da prefeitura de Carmo de Minas, considere as seguintes opções:
 
 ## 1. Sites de Questões
 - **QConcursos**: [qconcursos.com](https://www.qconcursos.com) - Um dos maiores bancos de questões do Brasil, com muitos concursos disponíveis.
