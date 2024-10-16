@@ -2,6 +2,7 @@
 
 ## Playlist colaborativa de Estudos no youtube [Clique aqui](https://www.youtube.com/playlist?list=PLdKWRMG0YzNuLCnFAUZUZNqwVsuCW8Oy6)
 
+
 | **Dia**       | **1ª Sessão (30 min)**                               | **2ª Sessão (30 min)**                    | **3ª Sessão (30 min)**                           | **4ª Sessão (30 min)**                              |
 |---------------|------------------------------------------------------|-------------------------------------------|--------------------------------------------------|-----------------------------------------------------|
 | **Segunda**   | Língua Portuguesa: Compreensão e interpretação        | Raciocínio Lógico: Sequências e lógica     | Informática: Hardware e SO                       | Atualidades: Política e economia                    |

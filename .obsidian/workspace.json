@@ -4,59 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "f620238f0dff930c",
+        "id": "44762e0a30e08e22",
         "type": "tabs",
         "children": [
           {
-            "id": "0c92370cd0b89eb2",
+            "id": "3627e472de8d7a72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "611028421912ac84",
+            "id": "6c36112a50645b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Sistema Operacional.md",
+                "file": "Informatica/Informática Suítes de escritório.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b2822d831ec3772",
+            "id": "35d428e1c6e671d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Hardwares.md",
-                "mode": "preview",
+                "file": "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3017d418d2bc36bd",
+            "id": "128f3f97cc68455d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portugues/Concordância  Nominal e Verbal.md",
-                "mode": "preview",
+                "file": "Matematica/Matemática Porcentagem e regra de três simples.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "215395882a767e81",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portugues/Concordância  Nominal e Verbal.md",
+                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portugues/Concordância  Nominal e Verbal.md",
+                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portugues/Concordância  Nominal e Verbal.md"
+                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md"
               }
             }
           }
@@ -183,12 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3017d418d2bc36bd",
+  "active": "3627e472de8d7a72",
   "lastOpenFiles": [
+    "Matematica/Matemática Porcentagem e regra de três simples.md",
+    "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
+    "Informatica/Informática Suítes de escritório.md",
+    "Portugues/ACENTUAÇÃO GRÁFICA.md",
+    "Atualidades Meio ambiente e tecnologia",
     "Informatica/Hardwares.md",
-    "Portugues/Concordância  Nominal e Verbal.md",
     "Informatica/Sistema Operacional.md",
     "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+    "README.md",
+    "Portugues/Concordância  Nominal e Verbal.md",
     "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "PDFS/Interpretacao_e_compreensao.pdf",
     "PDFS/Interpretacao_e_compreensao.pdf.pdf",
