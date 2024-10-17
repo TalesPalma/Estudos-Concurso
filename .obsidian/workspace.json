@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portugues/Uso dos Porquês.md",
+                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uso dos Porquês"
+              "title": "Uso dos Porquês e figuras de linguagem"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portugues/Uso dos Porquês.md",
+                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uso dos Porquês"
+              "title": "Backlinks for Uso dos Porquês e figuras de linguagem"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portugues/Uso dos Porquês.md",
+                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uso dos Porquês"
+              "title": "Outgoing links from Uso dos Porquês e figuras de linguagem"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portugues/Uso dos Porquês.md"
+                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Uso dos Porquês"
+              "title": "Outline of Uso dos Porquês e figuras de linguagem"
             }
           }
         ]
@@ -164,7 +164,7 @@
   },
   "active": "4d6288da2497518c",
   "lastOpenFiles": [
-    "Portugues/Uso dos Porquês.md",
+    "Portugues/Uso dos Porquês e figuras de linguagem.md",
     "Matematica/Matemática Porcentagem e regra de três simples.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
     "README.md",
