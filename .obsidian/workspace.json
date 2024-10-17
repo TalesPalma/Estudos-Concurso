@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d6288da2497518c",
+            "id": "62bdf93683d6ccdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md",
+                "file": "Direito/Direito Administrativo Organização do Estado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uso dos Porquês e figuras de linguagem"
+              "title": "Direito Administrativo Organização do Estado"
+            }
+          },
+          {
+            "id": "1315cb83ef71d461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lógica/Raciocínio Lógico Gráficos e tabelas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raciocínio Lógico Gráficos e tabelas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "215395882a767e81",
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md",
+                "file": "Lógica/Raciocínio Lógico Gráficos e tabelas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uso dos Porquês e figuras de linguagem"
+              "title": "Backlinks for Raciocínio Lógico Gráficos e tabelas"
             }
           },
           {
@@ -112,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md",
+                "file": "Lógica/Raciocínio Lógico Gráficos e tabelas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uso dos Porquês e figuras de linguagem"
+              "title": "Outgoing links from Raciocínio Lógico Gráficos e tabelas"
             }
           },
           {
@@ -139,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portugues/Uso dos Porquês e figuras de linguagem.md"
+                "file": "Lógica/Raciocínio Lógico Gráficos e tabelas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Uso dos Porquês e figuras de linguagem"
+              "title": "Outline of Raciocínio Lógico Gráficos e tabelas"
             }
           }
         ]
@@ -162,9 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d6288da2497518c",
+  "active": "1315cb83ef71d461",
   "lastOpenFiles": [
+    "Direito/Direito Administrativo Organização do Estado.md",
+    "Lógica/Raciocínio Lógico Gráficos e tabelas.md",
+    "Informatica/Informática  Redes de computadores.md",
     "Portugues/Uso dos Porquês e figuras de linguagem.md",
+    "Lógica",
     "Matematica/Matemática Porcentagem e regra de três simples.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
     "README.md",
@@ -173,7 +193,7 @@
     "Atualidades Meio ambiente e tecnologia",
     "Informatica/Hardwares.md",
     "Informatica/Sistema Operacional.md",
-    "Matematica/Raciocínio Lógico  Sequências e lógica.md",
+    "Lógica/Raciocínio Lógico  Sequências e lógica.md",
     "Portugues/Concordância  Nominal e Verbal.md",
     "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "PDFS/Interpretacao_e_compreensao.pdf",
