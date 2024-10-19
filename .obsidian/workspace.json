@@ -63,7 +63,8 @@
               "title": "Língua Portuguesa Revisão de gramática normativa"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,12 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb807dd08deeaa85",
+  "active": "8d8ae661fc7bdf42",
   "lastOpenFiles": [
+    "Direito/Direito Constitucional  Poder legislativo judiciário.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades  Economia e eventos internacionais.md",
     "Informatica/Informática Segurança da informação.md",
     "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
-    "Direito/Direito Constitucional  Poder legislativo judiciário.md",
     "Lógica/Raciocínio Lógico Probabilidade.md",
     "Matematica/Matemática Juros simples e compostos.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Ciência e sociedade.md",
