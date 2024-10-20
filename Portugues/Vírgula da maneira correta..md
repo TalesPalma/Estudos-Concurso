@@ -5,26 +5,26 @@ A vírgula é um elemento organizador não para respirar.
 
 Exemplos:
 
-1.
-**Não , espere.**
+
+**1. Não , espere.**
 Não espere.
 
 Repare que conseguimos mudar a intenção do texto usando a vírgula.
 
-2.
-**Aceito, obrigado.** -> Aceito de gratidão.
+
+**2. Aceito, obrigado.** -> Aceito de gratidão.
 Aceito obrigado. -> Aceito de ser obrigado a aceitar algo.
 
-3.
-**Isso só , ele resolve.** -> Isso é tudo ? Ele resolve.
+
+**3. Isso só , ele resolve.** -> Isso é tudo ? Ele resolve.
 Isso só ele resolver. -> Isso apenas ele pode resolve.
 
-4.
-**Esse , juiz , é corrupto** -> Essa pessoa aqui é corrupta juiz.
+
+**4. Esse , juiz , é corrupto** -> Essa pessoa aqui é corrupta juiz.
 Esse juiz é corrupto -> O juiz é corrupto.
 
-5.
-**Vamos perder , nada foi resolvido.** -> Perdemos pois nada foi resolvido.
+
+**5. Vamos perder , nada foi resolvido.** -> Perdemos pois nada foi resolvido.
 **Vamos perder nada , foi resolvido.** -> Não vamos perde pois foi resolvido o problema.
 
 ## Regras de seu uso
@@ -56,25 +56,25 @@ Durante o carnaval , na Bahia , não choveu.
 Brasília , 10 de fevereiro  de 1999
 Rua do outro , 229
 
-**Para separar palavras ou expressões explicativas.**
+**5.Para separar palavras ou expressões explicativas.**
 O diretor titubeou , isto é , não concordou com o ponto de vista da assembleia.
 
-**5. Quando se omite  um termo da oração (elipse)**
+**6. Quando se omite  um termo da oração (elipse)**
 Nós preferimos café , e eles , chá. -> Em vez de repetir o verbo preferir usamos a **,**
 
-**6. Para separar orações ligadas pela conjunção "E" com sujeitos diferentes.**
+**7. Para separar orações ligadas pela conjunção "E" com sujeitos diferentes.**
 Nós preferimos café, e eles , chá. -> Ligando duas orações com sujeitos diferentes.
 
-**Para separar orações coordenadas assindéticas.**
+**8.Para separar orações coordenadas assindéticas.**
 Viajou no fim de semana , foi visitar os pais. -> Duas orações quê sozinha têm sentido porém ligamos com a vírgula.
 
-**7. Para separar orações subordinadas adjetivas explicativas**
+**9. Para separar orações subordinadas adjetivas explicativas**
 Sua opiniões , que eram brilhantes , interessavam a todos.
 
-**8. Para separar orações subordinadas adverbiais , sobretudo quando deslocadas.**
+**10. Para separar orações subordinadas adverbiais , sobretudo quando deslocadas.**
 Se você também quer a vida mansa , trabalhe muito agora e descanse depois.
 
-**9. Para separar orações intercaladas**
+**11. Para separar orações intercaladas**
 As ofensas , disse ela , foram graves.
 
 ### Onde você nunca  deve colocar vírgula
