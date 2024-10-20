@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f93dd93834684aeb",
+        "id": "753d2f71846f492d",
         "type": "tabs",
         "children": [
           {
-            "id": "8d8ae661fc7bdf42",
+            "id": "e013b7ef4795787b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
+                "file": "Portugues/Vírgula da maneira correta..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Língua Portuguesa Revisão de gramática normativa"
+              "title": "Vírgula da maneira correta."
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "215395882a767e81",
@@ -163,12 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d8ae661fc7bdf42",
+  "active": "e013b7ef4795787b",
   "lastOpenFiles": [
+    "Portugues/Vírgula da maneira correta..md",
+    "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
     "Direito/Direito Constitucional  Poder legislativo judiciário.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades  Economia e eventos internacionais.md",
     "Informatica/Informática Segurança da informação.md",
-    "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
     "Lógica/Raciocínio Lógico Probabilidade.md",
     "Matematica/Matemática Juros simples e compostos.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Ciência e sociedade.md",
@@ -194,7 +194,6 @@
     "PDFS/Interpretacao_e_compreensao.md",
     "Interpretacao_e_compreensao.pdf.md",
     "PDFS/Interpretacao_e_compreensao.pdf.md",
-    "PDFS/InterpretaçãoECompreensão.md",
     "PDFS"
   ]
 }
