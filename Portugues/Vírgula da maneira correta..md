@@ -6,7 +6,7 @@ A vírgula é um elemento organizador não para respirar.
 Exemplos:
 
 1.
-**Não , espere. **
+**Não , espere.**
 Não espere.
 
 Repare que conseguimos mudar a intenção do texto usando a vírgula.
@@ -42,7 +42,7 @@ Vamos comer gente ?  -> Eita kkkkkkkkkkkkk
 Vamos  comer, gente ?  -> Agora sim é aquilo quê quer dizer kkkkkk
 Maria , chame seu pai.
 
-** Uso com adjuntos adverbiais ou locuções adverbiais deslocados.
+**Uso com adjuntos adverbiais ou locuções adverbiais deslocados.**
 
 Na Bahia ,  não choveu.
 
@@ -56,7 +56,7 @@ Durante o carnaval , na Bahia , não choveu.
 Brasília , 10 de fevereiro  de 1999
 Rua do outro , 229
 
-** Para separar palavras ou expressões explicativas.**
+**Para separar palavras ou expressões explicativas.**
 O diretor titubeou , isto é , não concordou com o ponto de vista da assembleia.
 
 **5. Quando se omite  um termo da oração (elipse)**
@@ -65,7 +65,7 @@ Nós preferimos café , e eles , chá. -> Em vez de repetir o verbo preferir usa
 **6. Para separar orações ligadas pela conjunção "E" com sujeitos diferentes.**
 Nós preferimos café, e eles , chá. -> Ligando duas orações com sujeitos diferentes.
 
-** Para separar orações coordenadas assindéticas.**
+**Para separar orações coordenadas assindéticas.**
 Viajou no fim de semana , foi visitar os pais. -> Duas orações quê sozinha têm sentido porém ligamos com a vírgula.
 
 **7. Para separar orações subordinadas adjetivas explicativas**
@@ -82,7 +82,7 @@ As ofensas , disse ela , foram graves.
 **1. entre sujeito e predicado.**
 A subida até o morante o deixou  a criança cansada.
 
-**2. Verbo e complementos **
+**2. Verbo e complementos**
 Os cientistas preocupam-se  o com  o efeito estufa.
 
 **3 . Entre núcleo nominal e seus adjuntos ou complementos.**
