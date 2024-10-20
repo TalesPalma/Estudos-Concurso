@@ -1,5 +1,5 @@
 # Estudos-Concurso
-
+**Dica: Para ler os arquivos md abra-os [obsdian](https://obsidian.md/) ou em algum leitor de md de sua preferencia.**
 ## Playlist colaborativa de Estudos no youtube [Clique aqui](https://www.youtube.com/playlist?list=PLdKWRMG0YzNuLCnFAUZUZNqwVsuCW8Oy6)
 
 
