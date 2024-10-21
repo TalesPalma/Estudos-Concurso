@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "METAS.md",
+                "file": "Lógica/Raciocínio Lógico  Sequências e lógica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "METAS"
+              "title": "Raciocínio Lógico  Sequências e lógica"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "e013b7ef4795787b",
   "lastOpenFiles": [
-    "README.md",
     "METAS.md",
+    "README.md",
     "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "Portugues/Concordância  Nominal e Verbal.md",
     "Portugues/Vírgula da maneira correta..md",
