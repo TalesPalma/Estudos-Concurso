@@ -8,50 +8,65 @@
 [Video aqui](https://www.youtube.com/watch?v=XsN0e_xPyNI)
 
 
+### Check-list: Para ter uma boa compreensão de texto
 
+- [ ] Aprender pontuação  
+- [ ] Identificar palavras-chave (substantivos e verbos)  
+- [ ] Entender o período composto (Coordenação e Subordinação)  
+- [ ] Realizar análise sintática  
 
+### Conteúdos gramaticais para uma boa compreensão
 
-# Para ter uma boa compreensão de texto deve-se
+#### Classes de palavras  
+- [ ] Substantivo  
+- [ ] Verbo  
+- [ ] Conjunção  
+- [ ] Adjetivo  
+- [ ] Advérbio  
+- [ ] Preposição  
+- [ ] Pronome  
+- [ ] Interjeição  
+- [ ] Numeral  
+- [ ] Artigo  
 
-* Aprender pontuação
-*  Palavras- chaves (substantivos e verbos)
-* Período composto (Coordenação e subordinação)
-* Análise sintática
+#### Análise sintática  
+- [ ] Sujeito  
+- [ ] Predicado  
+- [ ] Adjunto adverbial  
+- [ ] Aposto  
+- [ ] Vocativo  
+- [ ] Predicativo (do sujeito ou do objeto)  
+- [ ] Transitividade verbal  
+- [ ] Complemento nominal  
+- [ ] Agente da passiva  
 
-## Conteúdos gramaticais para ter um boa compreensão.
-### Classes de palavras 
-* Substantivo 
-* verbo 
-* conjunção 
-* adjetivo ,
-* adverbo 
-* preposição 
-* pronome 
-* interjeição 
-* numeral e artigo.
+#### Período composto  
+- [ ] Coordenação (aditiva, adversativa, alternativa, conclusiva e explicativa)  
 
-### Análise sintática  
-* Sujeito,
-* predicado ,
-* adjunto adverbial ,
-* aposto ,
-* vocativo ,
-* predicativo (sujeito ou objeto) 
-* transitividade verbal 
-* compreemento nominal 
-* agente da passiva
+#### Subordinação  
+- [ ] Substantiva  
+- [ ] Adjetiva  
+- [ ] Adverbial  
 
-###  Período composto  
-* Cordenação (aditiva, adversativa , alternativa , conclusiva e explicativa)
+#### Pontuação  
 
-### Subordinação
-* Substantiva
-* Adjetiva
-* Adverbial
+### Para uma boa interpretação é necessário (Tudo de compreensão mais as coisas abaixo)
+- [ ] A partir do texto  
+- [ ] Inferir do texto  
+- [ ] Deduzir do texto  
 
-### Pontuação
+Interpretar é extrapolar o texto até chegar em conclusões e deduções.  
 
+#### Semântica  
+- [ ] Sentido  
 
+# Anáfora x catáfora
+Ana => Antes , anterior.
+cata => Após , posterior.
+
+**Ex anáfora**
+Estudantes assistem a live , eles estão gostando.
+ * *Ele* => Anáfora
 
 
 
