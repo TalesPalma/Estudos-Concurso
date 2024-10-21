@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lógica/Raciocínio Lógico  Sequências e lógica.md",
+                "file": "Matematica/Geometria básica (áreas e perímetros).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raciocínio Lógico  Sequências e lógica"
+              "title": "Geometria básica (áreas e perímetros)"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "e013b7ef4795787b",
   "lastOpenFiles": [
+    "Lógica/Raciocínio Lógico  Sequências e lógica.md",
+    "Matematica/Geometria básica (áreas e perímetros).md",
+    "PDFS/cap-8-sequencias-logicas-e-suas-leis-de-formacao.pdf",
+    "PDFS/logica.pdf",
+    "PDFS/aulão-de-raciocíno-lógico-resoluções.pdf",
     "METAS.md",
     "README.md",
     "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
@@ -193,10 +198,7 @@
     "Atualidades Meio ambiente e tecnologia",
     "Informatica/Hardwares.md",
     "Informatica/Sistema Operacional.md",
-    "Lógica/Raciocínio Lógico  Sequências e lógica.md",
     "PDFS/Interpretacao_e_compreensao.pdf.pdf",
-    "PDFS/Interpretacao_e_compreensao.md",
-    "Interpretacao_e_compreensao.pdf.md",
-    "PDFS"
+    "PDFS/Interpretacao_e_compreensao.md"
   ]
 }
