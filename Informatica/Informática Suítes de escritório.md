@@ -1,3 +1,5 @@
+[Playlist completa](https://www.youtube.com/playlist?list=PLVFr6TIFvQ_EKHoLyr0o24n-NiQHu2S30)
+
 **Informática: Suítes de Escritório** refere-se a conjuntos de programas de software projetados para ajudar em tarefas administrativas e de escritório. Essas suítes geralmente incluem aplicativos que permitem a criação, edição e gerenciamento de documentos, planilhas, apresentações e outros tipos de arquivos.
 
 ### Principais Componentes de uma Suíte de Escritório

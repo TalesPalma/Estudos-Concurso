@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Geometria básica (áreas e perímetros).md",
+                "file": "Portugues/ACENTUAÇÃO GRÁFICA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometria básica (áreas e perímetros)"
+              "title": "ACENTUAÇÃO GRÁFICA"
             }
           }
         ]
@@ -164,19 +164,22 @@
   },
   "active": "e013b7ef4795787b",
   "lastOpenFiles": [
-    "Lógica/Raciocínio Lógico  Sequências e lógica.md",
+    "Informatica/Informática Suítes de escritório.md",
+    "Portugues/ACENTUAÇÃO GRÁFICA.md",
+    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
+    "PDFS/SUBSTANTIVOS-Pt.1-Prof.-Selma.pdf",
+    "Portugues/Língua Portuguesa  Gêneros textuais.md",
+    "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
+    "Portugues/Uso dos Porquês e figuras de linguagem.md",
+    "Portugues/Vírgula da maneira correta..md",
     "Matematica/Geometria básica (áreas e perímetros).md",
+    "Lógica/Raciocínio Lógico  Sequências e lógica.md",
     "PDFS/cap-8-sequencias-logicas-e-suas-leis-de-formacao.pdf",
     "PDFS/logica.pdf",
     "PDFS/aulão-de-raciocíno-lógico-resoluções.pdf",
     "METAS.md",
     "README.md",
-    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "Portugues/Concordância  Nominal e Verbal.md",
-    "Portugues/Vírgula da maneira correta..md",
-    "Portugues/Uso dos Porquês e figuras de linguagem.md",
-    "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
-    "Portugues/ACENTUAÇÃO GRÁFICA.md",
     "Matematica/Matemática Porcentagem e regra de três simples.md",
     "Matematica/Matemática Juros simples e compostos.md",
     "PDFS/A+compreensão+do+texto+em+provas+de+língua+portuguesa+em+concursos.pdf",
@@ -188,17 +191,13 @@
     "Informatica/Informática Segurança da informação.md",
     "Lógica/Raciocínio Lógico Probabilidade.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades Ciência e sociedade.md",
-    "Portugues/Língua Portuguesa  Gêneros textuais.md",
     "Direito/Direito Administrativo Organização do Estado.md",
     "Lógica/Raciocínio Lógico Gráficos e tabelas.md",
     "Informatica/Informática  Redes de computadores.md",
     "Lógica",
     "Atualidades Meio ambiente e tecnologia/Atualidades Meio ambiente e tecnologia.md",
-    "Informatica/Informática Suítes de escritório.md",
     "Atualidades Meio ambiente e tecnologia",
     "Informatica/Hardwares.md",
-    "Informatica/Sistema Operacional.md",
-    "PDFS/Interpretacao_e_compreensao.pdf.pdf",
-    "PDFS/Interpretacao_e_compreensao.md"
+    "Informatica/Sistema Operacional.md"
   ]
 }
