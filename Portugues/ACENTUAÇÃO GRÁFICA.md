@@ -3,3 +3,5 @@
 Oxitonas , paroxitonas , proparoxitonas , ditongos abertos , hiatos e acentos diferenciais.
 
 # Aula 2
+
+[Pdf](../PDFS/Acentuacao-Grafica.pdf)
