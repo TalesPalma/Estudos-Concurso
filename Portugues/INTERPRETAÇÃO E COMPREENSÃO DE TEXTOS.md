@@ -19,8 +19,8 @@
 
 #### Classes de palavras  
 - [x] 1 Substantivo  (Comum , próprio , primitivos,derivado , abstratos, simples, composto,coletivo , biforme e uniforme) 
-- [ ]  2 Preposição  
-- [ ]3  Conjunção  
+- [x]  2 Preposição  
+- [x] 3  Conjunção   
 - [ ] 4 Verbo  
 - [ ] 5 Adjetivo  
 - [ ] 6 Advérbio  
