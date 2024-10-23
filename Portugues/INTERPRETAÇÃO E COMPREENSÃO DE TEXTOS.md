@@ -22,6 +22,7 @@
 - [x]  2 Preposição  
 - [x] 3  Conjunção   
 - [ ] 4 Verbo  
+- [x] 5 Radical (prefixo e sufixo) 
 - [ ] 5 Adjetivo  
 - [ ] 6 Advérbio  
 

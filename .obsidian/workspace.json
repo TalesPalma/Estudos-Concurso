@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
+                "file": "Matematica/Fração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS"
+              "title": "Fração"
             }
           }
         ]
@@ -164,6 +164,14 @@
   },
   "active": "e013b7ef4795787b",
   "lastOpenFiles": [
+    "Matematica/Geometria básica (áreas e perímetros).md",
+    "Matematica/Fração.md",
+    "Matematica/Matemática Juros simples e compostos.md",
+    "Matematica/Matemática Porcentagem e regra de três simples.md",
+    "Portugues/ACENTUAÇÃO GRÁFICA.md",
+    "PDFS/Acentuacao-Grafica.pdf",
+    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
+    "PDFS/Gramática-Verbo.pdf",
     "PDFS/livro-raiocio-logico.pdf",
     "PDFS/JUS2736-Degustacao.pdf",
     "PDFS/fundamentos-da-matematica-elementar-11.pdf",
@@ -173,22 +181,14 @@
     "PDFS/Se-liga-nas-linguagens_Port.pdf",
     "PDFS/Livro_didatico.pdf",
     "Portugues/Língua Portuguesa  Gêneros textuais.md",
-    "Portugues/INTERPRETAÇÃO E COMPREENSÃO DE TEXTOS.md",
     "Portugues/Concordância  Nominal e Verbal.md",
-    "Portugues/ACENTUAÇÃO GRÁFICA.md",
     "METAS.md",
     "README.md",
-    "PDFS/Acentuacao-Grafica.pdf",
-    "Matematica/Matemática Porcentagem e regra de três simples.md",
     "Informatica/Informática Suítes de escritório.md",
-    "PDFS/SUBSTANTIVOS-Pt.1-Prof.-Selma.pdf",
     "Portugues/Língua Portuguesa Revisão de gramática normativa.md",
     "Portugues/Uso dos Porquês e figuras de linguagem.md",
     "Portugues/Vírgula da maneira correta..md",
-    "Matematica/Geometria básica (áreas e perímetros).md",
     "Lógica/Raciocínio Lógico  Sequências e lógica.md",
-    "PDFS/cap-8-sequencias-logicas-e-suas-leis-de-formacao.pdf",
-    "Matematica/Matemática Juros simples e compostos.md",
     "Direito/Direito Constitucional  Poder legislativo judiciário.md",
     "Atualidades Meio ambiente e tecnologia/Atualidades  Economia e eventos internacionais.md",
     "Informatica/Informática Segurança da informação.md",

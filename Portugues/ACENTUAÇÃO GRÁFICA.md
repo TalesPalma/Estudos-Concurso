@@ -10,3 +10,6 @@ Oxitonas , paroxitonas , proparoxitonas , ditongos abertos , hiatos e acentos di
 
 [Pdf de acentuação gráfica](../PDFS/Acentuacao-Grafica.pdf)
 
+# Aula 3 
+
+[vídeo aula](https://www.youtube.com/watch?v=aQLicttzwaE)
